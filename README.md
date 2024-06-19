@@ -1,5 +1,5 @@
 
-Dissertation: Utilizing Machine Learning Techniques to Forecast Player and Team PerformanceDissertation: Utilizing Machine Learning Techniques to Forecast Player and Team Performance
+Dissertation: Utilizing Machine Learning Techniques to Forecast Player and Team Performance
 
 Abstract
 This dissertation explores using machine learning to predict cricket player and team performance. The goal is to forecast runs scored by batsmen and match outcomes based on batting statistics. The project includes web scraping, data preprocessing, visualization, and applying machine learning models.
